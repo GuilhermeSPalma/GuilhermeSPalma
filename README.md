@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuilhermeSPalma
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, HTML, VBA, CSS, JAVASCRIPT
 - 🌱 I’m currently learning Python and VBA
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 guipalma98@gmail.com
